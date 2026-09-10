@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Données brutes du census trop volumineuses pour GitHub (169 Mo / 175 Mo,
+# au-delà de la limite de 100 Mo par fichier). Voir README pour se les procurer.
+data/censitorios/Densidade.json
+data/censitorios/Inegalidade.json

@@ -1,0 +1,5 @@
+folium>=0.20
+geopandas>=1.1
+pandas>=2.3
+numpy>=2.0
+shapely>=2.1
